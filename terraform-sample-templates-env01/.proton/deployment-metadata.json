@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "3eb31fa3-7d69-4517-9d5f-90bfe7558581",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:526918413291:environment/terraform-sample-templates-env01",
+    "templateArn" : "arn:aws:proton:us-west-2:526918413291:environment-template/fargate-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
